@@ -1,0 +1,38 @@
+/* (unchanged) */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+#content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+button#colorButton {
+    width: 150px; 
+    height: 50px; 
+    font-size: 16px;
+}
+
+footer {
+    background-color: #333;
+    color: #aa6767;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
